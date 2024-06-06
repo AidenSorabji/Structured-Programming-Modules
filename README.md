@@ -9,6 +9,3 @@ Feel free to fork the project to make it better! Any type of code that makes any
 
 # License and Using ©
 Please when using this code, credit me. In addition, please do not use this code to complete your code for an assignment, as I am not held responsible for people who do, and for anyone that will do.
-
-# Contact me ✉️
-If you have any questions about my licensing, the code in the repo, or anything else that is confusing you, create a post in the discussion tab, or email me at [sorabjiaiden@gmail.com](sorabjiaiden@gmail.com).
